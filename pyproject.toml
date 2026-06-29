@@ -1,0 +1,20 @@
+[build-system]
+requires = ["setuptools>=68"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "climate-preprocessing"
+version = "0.1.0"
+description = "IMD climate GRD preprocessing pipeline for climate digital twin datasets."
+requires-python = ">=3.12"
+dependencies = [
+  "numpy",
+  "pandas",
+  "scipy",
+  "xarray",
+  "matplotlib",
+  "tqdm",
+]
+
+[tool.setuptools.packages.find]
+where = ["src"]
