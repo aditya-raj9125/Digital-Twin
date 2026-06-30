@@ -162,6 +162,14 @@ Future iterations of the pipeline will incorporate additional atmospheric variab
 
 ---
 
+## 🔗 Project Resources
+
+- 📓 **Model Training:** The preprocessed tensor data can be used to train forecasting models directly using [this Google Colab Notebook](https://colab.research.google.com/drive/1mf-kjpPhyaed0wkHWKu9GKIkK4DFwS6H?usp=sharing).
+- 📄 **Detailed Approach:** A comprehensive document detailing the methodology and complete project workflow is available [here (Google Docs)](https://docs.google.com/document/d/1KsxmaGxhuVIss7dc9mCIEOfIbnENyrDp60bkAkGDPnI/edit?usp=sharing).
+- 🖥️ **User Interface:** The frontend UI layer for visualizing the Climate Digital Twin can be found in the [digital-twin GitHub repository](https://github.com/anasalam-xyz/digital-twin).
+
+---
+
 ### Author
 **Aditya Raj**  
 *AI-Powered Climate Digital Twin Project*
